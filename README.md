@@ -1,4 +1,22 @@
-### Hi there 👋
+# Vygandas Pliasas
+
+### Entrepreneur | CTO | Product Manager | Front-end/Full-stack Growth Engineer with JavaScript, NodeJs, React, TypeScript, Marketing, Product skills | Growth Product Focused | Fan of Remote
+
+
+📈 I'm a creator with an entrepreneurs' spirit and highly specialized in growth solutions and providing the best advice on things related to e-commerce. I'm a guy with a product mindset and focusing on creating business value.
+
+💾 Since 2009, I have been in software development, marketing, e-commerce, and growth engineering. I started learning to code at age 13. Since then, I have known what my profession will be.
+
+💼 My developer career began before I even finished school. Since then, I've participated in various projects, built many MVPs, and launched a few startups. The last time I've checked, I had 130+ private repositories in my Bitbucket. Besides software engineering with React, TS, Java, PHP, I've extended my skills set to SEO, SEM, digital marketing, growth hacking, analysis, consulting, planning, hiring, and leading teams during those years. In 2017 I entered a professional leadership role, and then my career varied around that topic.
+
+👩‍🚀 I love helping people to learn and develop themselves. I like to discuss and look for ways to improve people's careers, increase skills portfolios, help identify the best path to focus.
+
+🎓 I have a Master's degree in Software Engineering and Bachelor's degree in Information Systems. I also keep improving on Udemy and Linkedin Education.
+
+🖥️ My engineering primary stack on the front-end is React, TypeScript, Next.js, some React-Native. And the back-end - Node, MongoDB, MySQL, OpenSearch, AWS.
+
+🎯 Primary focus on public pages, CRO, and growth campaigns.
+
 
 <p>
 
@@ -15,7 +33,7 @@
   </a>
   
   <a href="https://www.instagram.com/vygapro/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=27>
   </a>
   
   <a href="https://medium.com/@vygandas">
@@ -23,10 +41,6 @@
   </a>
   
   
-</p>
-
-<p>
-  <a href="https://www.twitter.com/vygapro"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/vygandas"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/vygapro/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://medium.com/@vygandas"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
 </p>
 
 
