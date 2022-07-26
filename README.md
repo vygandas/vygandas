@@ -1,6 +1,14 @@
 ### Hi there 👋
 
 <p>
+
+  <a href="https://www.youtube.com/channel/UCf2-1xaT8hzYq6nhaS-I5fg">
+    <img src="https://img.shields.io/youtube/channel/views/UCf2-1xaT8hzYq6nhaS-I5fg?label=Youtube%20views&style=for-the-badge" height=25>
+  </a>
+  
+</p>
+
+<p>
   <a href="https://www.twitter.com/vygapro"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/vygandas"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/vygapro/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://medium.com/@vygandas"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
 </p>
 
