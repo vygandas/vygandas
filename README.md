@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://github.com/vygandas/github-stats">
+<img src="https://github.com/vygandas/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/vygandas/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/vygandas/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/vygandas/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
 
 <img alt="Whispering..." style="margin-top: -10px" class="mr-3" src="https://github.githubassets.com/images/mona-whisper.gif" width="48" height="48">
 
