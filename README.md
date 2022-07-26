@@ -2,9 +2,14 @@
 
 <p>
 
-  <a href="https://www.youtube.com/channel/UCf2-1xaT8hzYq6nhaS-I5fg">
-    <img src="https://img.shields.io/youtube/channel/views/UCf2-1xaT8hzYq6nhaS-I5fg?label=Youtube%20views&style=for-the-badge" height=25>
+  <a href="https://www.youtube.com/channel/UCf2-1xaT8hzYq6nhaS-I5fg" target="_blank">
+    <img src="https://img.shields.io/youtube/channel/views/UCf2-1xaT8hzYq6nhaS-I5fg?label=Youtube%20views&style=for-the-badge&logo=youtube" height=25>
   </a>
+  
+  <a href="https://twitter.com/vygapro" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/vygapro?logo=twitter&style=for-the-badge" height=25>
+  </a>
+  
   
 </p>
 
