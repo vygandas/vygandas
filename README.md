@@ -19,7 +19,7 @@
   </a>
   
   <a href="https://medium.com/@vygandas">
-    <img src="https://img.shields.io/badge/Linkedin-13k-black?logo=medium&style=for-the-badge" height=25>
+    <img src="https://img.shields.io/badge/Medium-black?logo=medium&style=for-the-badge" height=25>
   </a>
   
   
