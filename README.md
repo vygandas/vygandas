@@ -1,4 +1,4 @@
-### Entrepreneur | CTO | Product Manager | Front-end/Full-stack Growth Engineer with JavaScript, NodeJs, React, TypeScript, Marketing, Product skills | Growth Product Focused | Fan of Remote
+### <img alt="Whispering..." style="margin-top: -10px" class="mr-3" src="https://github.githubassets.com/images/mona-whisper.gif" width="48" height="48"> Entrepreneur | CTO | Product Manager | Front-end/Full-stack Growth Engineer with JavaScript, NodeJs, React, TypeScript, Marketing, Product skills | Growth Product Focused | Fan of Remote
 
 
 <p>
@@ -28,12 +28,13 @@ I'm a creator with an entrepreneurs' spirit and highly specialized in growth sol
   <a href="https://medium.com/@vygandas">
     <img src="https://img.shields.io/badge/Medium-black?logo=medium&style=for-the-badge" height=25>
   </a>
-  
+ 
   
 </p>
 
 
-<p>🍌 Don't forget to get some Potassium 🍌</p>
+<p>🚨 Just do it.</p>
+
 <img align="right" src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
@@ -101,21 +102,3 @@ I'm a creator with an entrepreneurs' spirit and highly specialized in growth sol
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="35" height="35" alt="" />
           
 </p>
-
-
-
-
-<img alt="Whispering..." style="margin-top: -10px" class="mr-3" src="https://github.githubassets.com/images/mona-whisper.gif" width="48" height="48">
-
-<div style="display: flex; border: thin solid red;">
-  <img alt="Whispering..." style="margin-top: -10px" class="mr-3" src="https://github.githubassets.com/images/mona-whisper.gif" width="48" height="48">
-  <p>
-    <strong>vygandas/vygandas</strong>
-    is a ✨<em>special</em> ✨ repository that you can use
-    to add a <code>README.md</code> to your GitHub profile. Make sure
-    it’s public and initialize it with a <strong>README</strong> to
-    get started.
-  </p>  
-</div>
-
-https://www.sitepoint.com/github-profile-readme/
