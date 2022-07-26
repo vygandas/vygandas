@@ -4,7 +4,7 @@
 <p>
 I'm a creator with an entrepreneurs' spirit and highly specialized in growth solutions and providing the best advice on things related to e-commerce. I'm a guy with a product mindset and focusing on creating business value.
 </p>
-<br/>
+
 <br/>
 
 <p>
@@ -32,9 +32,9 @@ I'm a creator with an entrepreneurs' spirit and highly specialized in growth sol
   
 </p>
 
-
+<br/><br/>
 <p>🚨 Just do it.</p>
-
+<br/><br/>
 <img align="right" src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
