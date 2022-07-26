@@ -10,6 +10,18 @@
     <img src="https://img.shields.io/twitter/follow/vygapro?logo=twitter&style=for-the-badge" height=25>
   </a>
   
+  <a href="https://www.linkedin.com/in/vygandas" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-13k-blue?logo=linkedin&style=for-the-badge" height=25>
+  </a>
+  
+  <a href="https://www.instagram.com/vygapro/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+  </a>
+  
+  <a href="https://medium.com/@vygandas">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=lightgrey" height=25>
+  </a>
+  
   
 </p>
 
