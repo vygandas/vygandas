@@ -41,9 +41,8 @@ Even tho I'm managing and consulting, I still keep my skills sharp on the main s
 <ul>
 <li>👨‍🚀 I’m currently working as a contractor via <a href="https://www.upwork.com/freelancers/vygandas?ref=github">Upwork</a>.</li>
 <li>🧐 Keeping skills sharp on React, Node, TypeScript, Mongo, Nest and Next.</li>
-<li>👨‍💻 Most of my projects are in private repositories.</li>
+<li>👨‍💻 Largest squad managed of 40 till now.</li>
 <li>💬 Ping me if you want <strong>to hire a team, build product roadmap, setup development process or similar</strong>.</li>
-<li>🎉 Started coding at 14.</li>
 </ul>
 
 <br />
