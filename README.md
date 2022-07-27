@@ -4,6 +4,10 @@
 I'm a creator with an entrepreneurs' spirit and highly specialized in growth solutions and providing the best advice on things related to e-commerce. I'm a guy with a product mindset and focusing on creating business value.
 </p>
 
+<p>
+Even tho I'm managing and consulting, I still keep my skills sharp on the main stack. I can't imagine my life without coding. I always get back to coding something again. 🙂
+</p>
+
 <br/>
 
 <p>
