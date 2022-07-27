@@ -5,7 +5,7 @@ I'm a creator with an entrepreneurs' spirit and highly specialized in growth sol
 </p>
 
 <p>
-Even tho I'm managing and consulting, I still keep my skills sharp on the main stack. I can't imagine my life without coding. I always get back to coding something again. 🙂
+Even tho I'm managing and consulting, I still keep my skills sharp on the main stack. I can't imagine my life without coding, and I always get back to coding something again. I believe this, as a result, allows me to feel better my engineering teams and have exciting conversations about the latest tech. 🤖
 </p>
 
 <br/>
