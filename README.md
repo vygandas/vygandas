@@ -47,9 +47,7 @@ Even tho I'm managing and consulting, I still keep my skills sharp on the main s
 
 <br />
 <br/>
-<br/>
-<br/>
-<br/>
+
 
 <a href="https://github.com/vygandas/github-stats">
   <img src="https://github.com/vygandas/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
