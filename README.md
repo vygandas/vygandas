@@ -15,7 +15,7 @@ Even tho I'm managing and consulting, I still keep my skills sharp on the main s
     <img src="https://img.shields.io/youtube/channel/views/UCf2-1xaT8hzYq6nhaS-I5fg?label=Youtube%20views&style=for-the-badge&logo=youtube" height=25>
   </a>
   <a href="https://twitter.com/pliasas" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/vygapro?logo=twitter&style=for-the-badge" height=25>
+    <img src="https://img.shields.io/twitter/follow/pliasas?logo=twitter&style=for-the-badge" height=25>
   </a>
   <a href="https://www.linkedin.com/in/vygandas" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-13k-blue?logo=linkedin&style=for-the-badge" height=25>
